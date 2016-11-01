@@ -1,0 +1,1 @@
+D:\C&C++ samples\Add Digits\Add Digits\bin\Debug\Add Digits.exe.config
